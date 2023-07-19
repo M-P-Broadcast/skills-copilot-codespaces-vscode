@@ -1,0 +1,12 @@
+  {
+ Benennen Sie diese Konfiguration
+ "name": "Codespace für Skills!",
+ "Anpassungen": {
+           "vscode": {
+ "Erweiterungen": [
+                   "GitHub.copilot"
+               ]
+           }
+       }
+   }
+ 
